@@ -5,5 +5,6 @@ def main():
     
     print(lista)
     print(len(lista))
+    '''sos un puto'''
     
 main()
